@@ -34,12 +34,12 @@ Data Cleaning for the dataset was done in the power query editor as follows:
    - January (74%): The highest resolution rate, indicating strong performance in resolving customer issues during this period.
    - February (71%): A slight dip in the resolution rate, suggesting potential challenges or changes in processes, staffing, or customer complexity during that month.
    - March (72.8%): A recovery and slight increase, indicating improvements or adjustments made to enhance issue resolution, although it still remains just below January's peak.
-9.	Average handle time is 67.5
+6.	Average handle time is 67.5
 
 ## Recommendation:
-•	The majority of calls are being answered, there may still be room for improvement in reducing wait times or increasing the answer rate, especially during high-volume periods.
-•	Identifying the root causes of unresolved cases can help the call center develop targeted strategies to enhance issue resolution, ensure agents have the necessary tools and knowledge, and improve overall service quality
-•	The call center could enhance the customer experience, such as reducing call handling time, improving agent communication skills, or resolving issues more effectively to drive higher satisfaction scores.
+- 	The majority of calls are being answered, there may still be room for improvement in reducing wait times or increasing the answer rate, especially during high-volume periods.
+- Identifying the root causes of unresolved cases can help the call center develop targeted strategies to enhance issue resolution, ensure agents have the necessary tools and knowledge, and improve overall service quality
+- The call center could enhance the customer experience, such as reducing call handling time, improving agent communication skills, or resolving issues more effectively to drive higher satisfaction scores.
 
 
 
