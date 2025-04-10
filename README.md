@@ -11,8 +11,8 @@ The dataset was provided as an excel file by PwC s part of  PwC Power BI in Data
 ## Data Preparation & Modeling:
 Completed the Data transformation in Power Query and the dataset loaded into Microsoft Power BI Desktop for modelling.
 Data Cleaning for the dataset was done in the power query editor as follows:
-- Removed Unnecessary columns
-- Removed Unnecessary rows
+- Promoted headers
+- Changed data type
 - Each of the columns in the table were validated to have the correct data type
   
 ![image](https://github.com/user-attachments/assets/cf4fcae8-3821-46e6-a248-b103bc1a1f61)
